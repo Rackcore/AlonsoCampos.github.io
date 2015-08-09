@@ -1,6 +1,5 @@
 = Hola Mundo
 
-"Hola Munod" 
 
 # Rackcode by @Huixcospartan
 
@@ -8,10 +7,10 @@
 
 
 
-## Tabla de contenidos
-1. [Cursos](#cursos)
-2. [Tutoriales](#tutoriales)
-3. [Login](#login)
+== Tabla de contenidos
+* Cursos - (#cursos)
+* Tutoriales - (#tutoriales)
+* Login - (#login)
 
 === Cursos
 Visualizacion de listado de cursos con una tabla de contenido segmentado de acuerdo a 
@@ -34,8 +33,8 @@ Visualizacion de contenido multimedia (Articulos, Post, Videos) de podrian gusta
 
 Esta funcionalidad aun no esta disponible pero las 
 
-1. [Facebook]
-2. [Twitter]
+* Facebook
+* Twitter
 
 
 
