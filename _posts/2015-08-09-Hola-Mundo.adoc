@@ -3,6 +3,17 @@
 
 # Rackcode by @Huixcospartan
 
+++++
+<nav style="text-align:center;"class="links">
+		<a style="display:inline-block;" href="/" class="enlace logo">Rackcode</a>
+		<a style="display:inline-block;" href="/posts" class="enlace">Posts</a>
+		<a style="display:inline-block;" href="/grupos" class="enlace">Groups</a>
+		<a style="display:inline-block;"  href="/" class="enlace">Inicio</a>
+		<br class="clearfix">
+	</nav>
+    
+	<bstyle="display:"block;">Yoshi</b>
+++++
 
 
 
