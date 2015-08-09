@@ -2,29 +2,50 @@
 
 "Hola Munod" 
 
-====== Hola Mundo 2 
+# Rackcode by @Huixcospartan
 
-* a
 
-+
 
-+
+
+
+## Tabla de contenidos
+1. [Cursos](#cursos)
+2. [Tutoriales](#tutoriales)
+3. [Login](#login)
+
+=== Cursos
+Visualizacion de listado de cursos con una tabla de contenido segmentado de acuerdo a 
+Contenido.
+
+Se presentan 2 Secciones 1 para cursos recientes y actualizados la otra es para los mas
+destacados
+
+
+**[Volver arriba](#tabla-de-contenidos)**
+
+=== Tutoriales
+
+Visualizacion de contenido multimedia (Articulos, Post, Videos) de podrian gustarle al visitante
+
+
+**[Volver arriba](#tabla-de-contenidos)**
+
+== Login
+
+Esta funcionalidad aun no esta disponible pero las 
+
+1. [Facebook]
+2. [Twitter]
+
+
+
+
 =====
 
+**[Volver arriba](#tabla-de-contenidos)**
 
- Linean
-  AL
-  ABRE
-  
-  
- lA
- 
- 
- %"a"
+**Licencia - The MIT License**
 
- 
- * hA
- - a
- 
- 
- - a
+ Copyright (c) 2015 Hector Campos Alonso
+
+
