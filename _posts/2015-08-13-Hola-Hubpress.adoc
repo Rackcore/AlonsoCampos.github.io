@@ -4,6 +4,12 @@
 
 == Soy un H2 
 
+:uri-rackcode: http://rackcode.info
+
+La plataforma de {uri-rackcode}[Rackcpde]
+
+== http://rackcode.info[Rackcode] 
+
 
 
 Hubpress - Curso Profesional de Github con Hubpress
@@ -17,3 +23,5 @@ Hubpress es gratuito , todo lo que necesitas es una cuenta gratuita GitHub , no 
 Tiene una fácil configuración, puedes integrar Disqus ademas de Google Analitics.
 
 Este sin duda es un proyecto que nos a llamado mucho la atencion y que no vamos a perder de vista. Si quieres saber mas de Hubpress entra ya al curso de Profesional de Github con Hubpress.
+
+
