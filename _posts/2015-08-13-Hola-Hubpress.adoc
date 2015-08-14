@@ -1,27 +1,17 @@
 = Hola Hubpress
 
-= Soy un H1
-
-== Soy un H2 
 
 :uri-rackcode: http://rackcode.info
 
-La plataforma de {uri-rackcode}[Rackcpde]
 
-== http://rackcode.info[Rackcode] 
+== http://rackcode.info[Rackcode la Plataofrma de Educacion] 
 
+La plataforma de {uri-rackcode}[Rackcode]
 
 
 Hubpress - Curso Profesional de Github con Hubpress
 
-HubPress es una aplicación web para construir un blog en GitHub escrito en Javascript.
-
-Hubpress nos permite crear un blog unicamente haciendo un fork del proyecto en Github. Este proyecto esta dando sus primeros pasos a ser una posible competencia en un futuro a Wordpress, Blogger o Ghost, La diferencia ante los ya mencionados es que Hubpress es sencillamente facil y rapido de instalar. 
-
-Hubpress es gratuito , todo lo que necesitas es una cuenta gratuita GitHub , no requiere ningun servidor, ni suscripción ,
     
-Tiene una fácil configuración, puedes integrar Disqus ademas de Google Analitics.
-
-Este sin duda es un proyecto que nos a llamado mucho la atencion y que no vamos a perder de vista. Si quieres saber mas de Hubpress entra ya al curso de Profesional de Github con Hubpress.
+ Este sin duda es un proyecto que nos a llamado mucho la atencion y que no vamos a perder de vista. Si quieres saber mas de Hubpress entra ya al curso de Profesional de Github con Hubpress.
 
 
